@@ -1,0 +1,9 @@
+amwa_id: BCP-004
+url: https://specs.amwa.tv/bcp-004
+name: NMOS Capabilities
+status: Suite
+repo_name: bcp-004
+alt_repo_name: nmos-capabilities
+repo_url: https://github.com/AMWA-TV/bcp-004
+default_branch: main
+show_in_index: false
