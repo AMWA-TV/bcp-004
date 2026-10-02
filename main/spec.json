@@ -1,0 +1,17 @@
+{
+  "amwa_id": "BCP-004",
+  "url": "https://specs.amwa.tv/bcp-004",
+  "name": "NMOS Capabilities",
+  "status": "Suite",
+  "repo_name": "bcp-004",
+  "alt_repo_name": "nmos-capabilities",
+  "repo_url": "https://github.com/AMWA-TV/bcp-004",
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "why_does_it_matter": [
+      "Controllers need to know whether a Sender and Receiver can interoperate before attempting a connection.",
+      "A consistent capability model allows implementations to describe supported stream parameters without vendor-specific conventions."
+    ]
+  }
+}
