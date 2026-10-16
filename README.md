@@ -2,7 +2,6 @@
 
 [![Lint Status](https://github.com/AMWA-TV/bcp-004/workflows/Lint/badge.svg)](https://github.com/AMWA-TV/bcp-004/actions?query=workflow%3ALint)
 [![Zensical Render Status](https://github.com/AMWA-TV/bcp-004/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/bcp-004/actions/workflows/docs.yml)
-[![Legacy Render Status](https://github.com/AMWA-TV/bcp-004/workflows/Render/badge.svg)](https://github.com/AMWA-TV/bcp-004/actions?query=workflow%3A%3ARender)
 
 This repository holds the suite overview for the BCP-004 series of AMWA Best Common Practices, part of the family of [Networked Media Open Specifications](https://specs.amwa.tv/nmos) from the [Advanced Media Workflow Association](https://amwa.tv).
 
