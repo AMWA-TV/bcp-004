@@ -3,12 +3,6 @@
   "repository": "AMWA-TV/bcp-004",
   "documents": [
     {
-      "title": "Page not found",
-      "url": "https://specs.amwa.tv/bcp-004/latest/404/",
-      "text": "Page not found Page not found Page not found - AMWA BCP-004: NMOS Capabilities Skip to content Page not found The page you requested could not be found. Return to the documentation home",
-      "repository": "AMWA-TV/bcp-004"
-    },
-    {
       "title": "AMWA BCP-004 NMOS Capabilities",
       "url": "https://specs.amwa.tv/bcp-004/latest/Overview/",
       "text": "AMWA BCP-004 NMOS Capabilities AMWA BCP-004 NMOS Capabilities Introduction Suite documents Overview - AMWA BCP-004: NMOS Capabilities Skip to content AMWA BCP-004 NMOS Capabilities (c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction The BCP-004 series defines how NMOS Senders and Receivers express parametric capabilities and constraints. It provides a consistent model for describing the stream parameters an endpoint can produce or consume and for evaluating compatibility before a connection is made. The suite is divided into two complementary recommendations: BCP-004-01: NMOS Receiver Capabilities covers the capabilities and constraint sets expressed by Receivers. BCP-004-02: NMOS Sender Capabilities covers the capabilities and constraint sets expressed by Senders. The recommendations use the NMOS Parameter Registers and the IS-04 caps attribute. They should be read alongside: IS-04: NMOS Discovery and Registration IS-05: NMOS Device Connection Management IS-11: NMOS Network Media Configuration NMOS Parameter Registers Suite documents Document Scope BCP-004-01 NMOS Receiver Capabilities BCP-004-02 NMOS Sender Capabilities For the current status of the individual recommendations, see the NMOS Best Common Practices list .",
